@@ -1,7 +1,7 @@
 package ge.ibsu.demo.controllers;
 
-import ge.ibsu.demo.controllers.dto.Person;
-import ge.ibsu.demo.controllers.dto.Test;
+import ge.ibsu.demo.dto.Person;
+import ge.ibsu.demo.dto.Test;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

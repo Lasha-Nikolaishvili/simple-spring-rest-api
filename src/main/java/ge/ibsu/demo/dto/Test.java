@@ -1,4 +1,4 @@
-package ge.ibsu.demo.controllers.dto;
+package ge.ibsu.demo.dto;
 
 public class Test {
     private  String fullName;
